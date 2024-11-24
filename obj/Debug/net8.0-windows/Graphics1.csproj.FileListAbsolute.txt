@@ -1,0 +1,16 @@
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\Graphics1.Form1.resources
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\Graphics1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\Graphics1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\Graphics1.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\Graphics1.AssemblyInfo.cs
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\Graphics1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Graphics1\bin\Debug\net8.0-windows\Graphics1.exe
+C:\Users\User\source\repos\Graphics1\bin\Debug\net8.0-windows\Graphics1.deps.json
+C:\Users\User\source\repos\Graphics1\bin\Debug\net8.0-windows\Graphics1.runtimeconfig.json
+C:\Users\User\source\repos\Graphics1\bin\Debug\net8.0-windows\Graphics1.dll
+C:\Users\User\source\repos\Graphics1\bin\Debug\net8.0-windows\Graphics1.pdb
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\Graphics1.dll
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\refint\Graphics1.dll
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\Graphics1.pdb
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\Graphics1.genruntimeconfig.cache
+C:\Users\User\source\repos\Graphics1\obj\Debug\net8.0-windows\ref\Graphics1.dll
